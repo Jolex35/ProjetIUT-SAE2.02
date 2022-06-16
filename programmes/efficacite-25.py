@@ -19,3 +19,4 @@ def erase(cc):
             j=0
     return newStr
 
+#wgat
